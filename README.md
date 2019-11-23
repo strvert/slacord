@@ -1,0 +1,2 @@
+# slacord
+slack向けのwebhookをdiscord向けのwebhookに変換するプロキシ
