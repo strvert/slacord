@@ -1,4 +1,4 @@
 # slacord
 slack向けのwebhookをdiscord向けのwebhookに変換するプロキシ
 discord公式としてもSlack向けWebhook互換機能を提供しているが、肝心の`channel`が使えない。
-じゃあプロキシ書けばいいよね。
+
